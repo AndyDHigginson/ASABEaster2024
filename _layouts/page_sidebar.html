@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="en" class="no-js">
+    {% include head.html %}
+
+    <body>
+        <!-- Wrapper -->
+        <div id="wrapper">
+            <!-- Main -->
+            <div id="main">
+                <div class="inner">
+                    {% include header.html %}
+
+                    <!-- Content -->
+                    <section>
+                        <header class="main">
+                            <h1>{{ page.title }}</h1>
+                        </header>
+
+                        {% if page.image %}
+                        <span class="image main"
+                            ><img src="{{ page.image | absolute_url }}" alt=""
+                        /></span>
+                        {% endif %}
+
+                        <div class="row">
+                            <div class="9u 12u$(medium)">{{ content }}</div>
+
+                            <div class="3u$ 12u$(medium) important(medium)">
+                                <nav class="mp1">
+                                    <header>
+                                        <h4 class="menu_title">
+                                            <i class="icon fa-link"></i> Quick
+                                            Links
+                                        </h4>
+                                    </header>
+                                    <ul class="mp1_menu">
+                                        <li>
+                                            <a>General</a>
+                                            <ul>
+                                                <li>
+                                                    <a
+                                                        href="{{ 'authorship' | absolute_url }}"
+                                                        >Authorship
+                                                        guidelines</a
+                                                    >
+                                                </li>
+                                                <li>
+                                                    <a
+                                                        href="{{ 'ethics' | absolute_url }}"
+                                                        >Ethics guidelines</a
+                                                    >
+                                                </li>
+                                                <li>
+                                                    <a
+                                                        href="mailto:{{ site.email }}"
+                                                        >Email us
+                                                        <i
+                                                            class="
+                                                                icon
+                                                                fa-envelope-o
+                                                            "
+                                                        ></i
+                                                    ></a>
+                                                </li>
+                                                <li>
+                                                    <a
+                                                        href="{{ site.slack_url }}"
+                                                        >Join Slack
+                                                        <i
+                                                            class="
+                                                                icon
+                                                                fa-slack
+                                                            "
+                                                        ></i
+                                                    ></a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a>Get involved</a>
+                                            <ul>
+                                                <li>
+                                                    <a
+                                                        href="https://docs.google.com/document/d/1_a-vnYW7PCCacNPoNum7SwL5zbmh0erJli9MREHZe-M/edit?usp=sharing"
+                                                        >Procedure</a
+                                                    >
+                                                </li>
+                                                <li>
+                                                    <a
+                                                        href="https://github.com/ManyPrimates/mp2_delayed_gratification"
+                                                        >Github repository
+                                                        <i
+                                                            class="
+                                                                icon
+                                                                fa-github
+                                                            "
+                                                        ></i
+                                                    ></a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a>Additional resources</a>
+                                            <ul>
+                                                <li>
+                                                    <a
+                                                        href="https://osf.io/qd5e7"
+                                                        >Pre-registration for
+                                                        procedure</a
+                                                    >
+                                                </li>
+                                                <li>
+                                                    <a
+                                                        >Pre-registration for
+                                                        analysis (to come)</a
+                                                    >
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+
+            {% include sidebar.html %}
+        </div>
+
+        {% include footer.html %}
+    </body>
+</html>

@@ -1,0 +1,23 @@
+@charset "UTF-8";
+@font-face{
+  font-family: "Avenir-Next";
+  src: url("../../assets/fonts/Avenir_Next/AvenirNextLTPro-Regular.otf");
+  font-weight: 300;
+}
+@font-face{
+  font-family: "Avenir-Next";
+  src: url("../../assets/fonts/Avenir_Next/AvenirNextLTPro-It.otf");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face{
+  font-family: "Avenir-Next";
+  src: url("../../assets/fonts/Avenir_Next/AvenirNextLTPro-Bold.otf");
+  font-weight: 600;
+}
+@font-face{
+  font-family: "Avenir-Next";
+  src: url("../../assets/fonts/Avenir_Next/AvenirNextLTPro-BoldIt.otf");
+  font-weight: 600;
+  font-style: italic;
+}

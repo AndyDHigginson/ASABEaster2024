@@ -1,0 +1,75 @@
+<!-- Sidebar -->
+<div id="sidebar">
+    <div class="inner">
+        <!-- Menu -->
+        <nav id="menu">
+            <!-- Logo -->
+            <a href="{{ site.url | absolute_url }}" id="sidelogo">
+                <img src="/assets/images/MacaqueNet_Logo_V04-colourB.png" alt=""/>
+            </a>
+
+            <header class="major">
+                <h2>Menu</h2>
+            </header>
+            <ul>
+                <li><a href="{{ site.url | absolute_url }}">Home</a></li>
+                <li><a href="{{ 'about' | absolute_url }}">About</a></li>
+                <li><a href="{{ 'macaque_species' | absolute_url }}">Macaque Species</a></li>
+                <li>
+                    <span class="opener">Projects</span>
+                    <ul>
+                        <li>
+                            <a href="{{ 'drivers' | absolute_url }}"
+                                >Socio-Ecological Drivers of Social Relationships</a
+                            >
+                        </li>
+                        <li>
+                            <a href="{{ 'diversity' | absolute_url }}">Linking Social Diversity & Complexity</a>
+                        </li>
+                        <li>
+                            <a href="{{ 'steepness' | absolute_url }}">Rank-Related Fitness Benefits & Hierarchy Steepness In Primates</a>
+                        </li>
+                    </ul>
+                </li>
+                <li><a href="{{ 'database' | absolute_url }}">The Database</a></li>
+                <li><a href="{{ 'latest_news' | absolute_url }}">News</a></li>
+                <li><a href="{{ 'events' | absolute_url }}">Events</a></li>
+                <li><a href="{{ 'authorship_guidelines' | absolute_url }}">Authorship Guidelines</a></li>
+                <li><a href="{{ 'ethics_guidelines' | absolute_url }}">Ethics Guidelines</a></li>
+            </ul>
+        </nav>
+
+        <!-- Section -->
+        <section>
+            <header class="major">
+                <h2>Get In Touch</h2>
+            </header>
+            <ul class="contact">
+                <li class="fa-envelope-o">
+                    <a href="mailto:{{ site.email }}" target="_blank"
+                        >{{ site.email }}</a
+                    >
+                </li>
+                <li class="fa-github">
+                    <a href="{{ site.github_url }}" target="_blank"
+                        >github.com/MacaqueNet</a
+                    >
+                </li>
+                <li class="fa-brands fa-slack">
+                    <a href="{{ site.slack_url }}" target="_blank"
+                        >macaquenet.slack.com</a
+                    >
+                </li>
+            </ul>
+        </section>
+
+        <!-- Footer -->
+        <footer id="footer">
+            <p class="copyright">
+                &copy; 2022 {{ site.title }}. All rights reserved.
+                
+                We thank Julia Wadzek for her help & input creating this website. 
+            </p>
+        </footer>
+    </div>
+</div>

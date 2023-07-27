@@ -1,0 +1,21 @@
+# Site settings
+title: MacaqueNet
+subtitle: 
+email: macaquenet@gmail.com
+description: A Global Collaboration Of Macaque Researchers
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://macaquenet.github.io" # the base hostname & protocol for your site
+author: MacaqueNet
+lang: en_US
+
+# Social settings
+github_url: https://github.com/MacaqueNet
+slack_url: https://join.slack.com/t/macaquenet/shared_invite/zt-17eioou5f-yIj4BS~wfz~OUo9mCDFdjA
+
+# Build settings
+markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
