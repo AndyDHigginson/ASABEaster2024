@@ -13,8 +13,8 @@ This Conference is a chance to showcase your animal behaviour research to a glob
 
 The three days will be split with a one-day workshop and two days of conference sessions.  
 
-Workshop in employability for Animal Behaviour researchers: Tuesday, 28 March 
-Conference sessions: Wednesday, 29 March and Thursday, 30 March
+Workshop in AI researchers: Tuesday 23rd April 
+Conference sessions: Wednesday, 24th April  and Thursday, 25th April 
 
 
 <div style="text-align:center"><img class="image" src="/assets/images/asab journal.jpeg" width="700"/></div><br/>
@@ -27,8 +27,8 @@ Conference sessions: Wednesday, 29 March and Thursday, 30 March
 
 ASAB’s Spring meeting is aimed at postgraduate students and postdocs but is open to anyone interested in animal behaviour. 
 
-Bangor is set amongst spectacular scenery on the North Wales coast, between the mountain of Snowdonia and the Menai Strait. Come join us! 
+Exeter is set amongst spectacular scenery on the Devon Coast, between the wilds of Dartmoor and the Exe estuary. Come join us! 
 
-<div style="text-align:center"><img class="image" src="/assets/images/3_macaques_collage.png" /></div><br/>
+<div style="text-align:center"><img class="image" src="/assets/images/Crab Logo RGB.jpg" /></div><br/>
 
 ***
