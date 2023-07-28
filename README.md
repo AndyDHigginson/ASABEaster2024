@@ -1,10 +1,10 @@
-# MacaqueNet Website
+# ASAB Easter 2024 Website
 
 Source code for [https://ASABEaster2024.github.io/](https://ASABEaster2024.github.io/)
 
 # Acknowledgements
 
-ASABEaster2024 would like to thank Julia Watzek, the builder of the ManyPrimates website who's base code we utilised for this website (details provided below). Julia provided her invaluable knowledge and guidance in the creation of the MacaqueNet website. 
+The ASABEaster2024 team would like to thank Julia Watzek, the builder of the ManyPrimates website who's base code we utilised for this website (details provided below). Julia provided her invaluable knowledge and guidance in the creation of the MacaqueNet website. 
 
 ## Structure 
 
