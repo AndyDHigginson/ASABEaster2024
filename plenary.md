@@ -5,7 +5,7 @@ permalink: /plenary/
 ---
 <h2>Professor Stephanie King (University of Bristol)</h2>
 
-<div style="text-align:left"><img class="image" src="/assets/images/King profile.jpeg" /></div><br/>
+<div style="text-align:left"><img class="image" src="/assets/images/King profile.jpeg" alt="Stephanie Kind on a boat" width="300" height="300" /></div><br/>
 
 <h4>Cooperation in bottlenose dolphins</h4>
 
