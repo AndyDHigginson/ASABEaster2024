@@ -1,0 +1,8 @@
+
+<div style="text-align:center"><img class="image" src="/assets/images/organisers.jpg" /></div><br/>
+
+<li class="fa-envelope-o">
+                    <a href="mailto:{{asabeaster2024@gmail.com}}" target="_blank"
+                        >{{ email us }}</a
+                    >
+                </li>
