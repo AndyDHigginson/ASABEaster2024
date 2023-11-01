@@ -3,8 +3,12 @@ layout: page
 title: "Plenary speakers"
 permalink: /plenary/
 ---
-<h3>Professor Stephanie King (University of Bristol)</h3>
-<h5>Cooperation in bottlenose dolphins</h5>
+<h2>Professor Stephanie King (University of Bristol)</h2>
+
+<div style="text-align:left"><img class="image" src="/assets/images/King profile.jpeg" /></div><br/>
+
+<h4>Cooperation in bottlenose dolphins</h4>
+
 <h5>Stephanie is an Associate Professor in Animal Behaviour at the University of Bristol where she heads the cetacean communication and cognition research group. She  was extensive experience designing and implementing ambitious field-based experiments to study animal social cognition in the wild. Her primary research focus is on the evolution of complex communication systems and cooperative strategies in bottlenose dolphins, and she is the principal investigator of Shark Bay Dolphin Research, a 40-year study on dolphin behavioural ecology.</h5>
 
 
