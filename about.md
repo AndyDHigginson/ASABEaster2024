@@ -3,6 +3,8 @@ layout: page
 title: "About"
 permalink: /about/
 ---
+
+<div>
 <table>
   <tr>
     <td>        
@@ -38,6 +40,7 @@ permalink: /about/
     <td><div style="text-align:center"><img class="image" src="/assets/images/Crab Logo RGB.jpg" width="100"/></div><br/></td>
   </tr>
 </table>
+</div>
 
 <h5> What this conference is </h5>
 <h5>  Who this conference is for </h5>
