@@ -1,4 +1,4 @@
-<h3>Day 1: 0th April 2024</h3>
+<h3>Day 1: Tuesday 23rd April 2024</h3>
 
 <table>
   <tr>
@@ -8,13 +8,13 @@
   </tr>
   <tr>
     <td>09:00 - 09:30</td>
-    <td>Welcome and Introduction</td>
-    <td>Peter Chalk Red</td>
+    <td>Workshop on use of AI</td>
+    <td>Washington Singer Laboratories room 220</td>
   </tr>
 </table>
 
   
-<h3>Day 2: 0th April 2024</h3>
+<h3>Day 2: Wednesday 24th April 2024</h3>
 
 <table>
   <tr>
@@ -79,7 +79,7 @@
   </tr> 
 </table>
 
-<h3>Day 3: 0th April 2024</h3>
+<h3>Day 3: Thursday 25th April 2024</h3>
 
 <table>
   <tr>
